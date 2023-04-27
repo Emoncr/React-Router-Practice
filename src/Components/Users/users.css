@@ -1,0 +1,21 @@
+.user{
+    border: 2px solid tomato;
+    padding: 10px;
+    margin: 20px;
+}
+.info_btn{
+    padding: 10px 20px;
+    background-color: tomato;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+    font-size: 16px;
+    font-weight: 400;
+    letter-spacing:1px;
+    transition: 0.3s ease-in-out;
+    cursor: pointer;
+}
+.info_btn:hover{
+    background-color: rgba(255, 99, 71, 0.966);
+    transform: translateY(-2px);
+}
